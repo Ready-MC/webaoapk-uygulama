@@ -1,0 +1,1 @@
+  <small class="taptap-app-area">GLOBAL</small>
